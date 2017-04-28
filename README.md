@@ -1,1 +1,2 @@
 # lanse
+print "hello world!";
